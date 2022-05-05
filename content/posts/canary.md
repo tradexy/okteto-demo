@@ -4,7 +4,7 @@ date: 2018-11-09T01:24:49+02:00
 draft: false
 ---
 
-## Udemy Course
+## John M Course
 
 Learn here about CDR **[Glasswall Solutions](https://www.glasswallsolutions.com)**.
 
